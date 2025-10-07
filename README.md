@@ -1,8 +1,4 @@
-# AI-Powered Resume Screening & Job Recommendation (Advanced)
-
-This repository is a polished, interview-ready implementation of a Resume Screening
-and Job Recommendation prototype. It focuses on clean code, robustness, and
-production-minded design while remaining runnable in Google Colab for demo purposes.
+AI-Powered Resume Screening & Job Recommendation
 
 Key features:
 - Robust resume parsing (PDF / DOCX) with error handling and logs
