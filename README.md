@@ -6,7 +6,3 @@ Key features:
 - Keyword boosting (explicit skill matches increase score)
 - SQLite storage with a small DB wrapper
 - Flask API (ngrok-friendly for Colab demos)
-- Unit tests (pytest) for core components
-- Clear configuration and logging
-
-See `demo_colab_steps.md` for quick Colab instructions.
