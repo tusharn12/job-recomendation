@@ -1,0 +1,14 @@
+flask
+flask-ngrok
+sentence-transformers
+scikit-learn
+pdfplumber
+python-docx
+pandas
+numpy
+sqlalchemy
+nltk
+tqdm
+joblib
+pytest
+python-multipart
